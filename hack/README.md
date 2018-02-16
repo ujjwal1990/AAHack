@@ -29,10 +29,12 @@ All the very best!!!
 
 
 1) Please note that bookingjson is not the hackathon, it is just a **starting point**, If you final solution has only booking details thenit doesn't pass our initial shortlist for evlauation 
-2) Authentication/Security
+2) Authentication/Security ( Secure REST API )
 3) RESTFUL API ( create new API's and/or consume as applicable)
 4) Dont use the booking json directly if required host it on some cloud like heroku
 5) Think creative, we will look for innovative ideas
+6) TDD
+7) User experience
 6) Solution document should briefly 
     1) describe the idea, 
     2) technical architecture, 
