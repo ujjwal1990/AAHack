@@ -2,7 +2,7 @@
 
 **First FORK the repository**
 
-**Fill & submit Google Form and along with forked git URL**
+**Fill & submit Google Form along with forked git URL**
 
 https://docs.google.com/forms/d/e/1FAIpQLSfC7zUyO8IfbMbFxeU8x6869o6SU68cC2gjjGz3oxq7ciVjYA/viewform
 
