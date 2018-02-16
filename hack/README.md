@@ -32,10 +32,9 @@ All the very best!!!
 2) Authentication/Security ( Secure REST API )
 3) RESTFUL API ( create new API's and/or consume as applicable)
 4) Dont use the booking json directly if required host it on some cloud like heroku
-5) Think creative, we will look for innovative ideas
+5) Think creative, we will look for innovative ideas - and unique User experience
 6) TDD
-7) User experience
-6) Solution document should briefly 
+7) Solution document should briefly 
     1) describe the idea, 
     2) technical architecture, 
     3) solution approach etc. 
