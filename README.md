@@ -1,4 +1,4 @@
-# MobHackathon
+# Hackathon - 
 
 **First FORK the repository**
 
@@ -12,6 +12,6 @@ All the very best!!!
 
 **Please ensure to commit code in frequent intervals**
 
-**Only the last commit before or at the end of 4 hours will be considered for evalaution** 
+**Only the last commit before or at the end of 4.5 hours will be considered for evalaution** 
 
-# You have 4 hours to finish ? Are you Ready ? 
+# Are you a Ninja coder!! Even if not you have 4.5 hours to finish ? Are you Ready ?  
