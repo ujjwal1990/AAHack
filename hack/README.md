@@ -28,18 +28,18 @@ All the very best!!!
 # EVALAUTION CRITERIA
 
 
-1) Please note that bookingjson is not the hackathon, it is just a **starting point**, If you final solution has only booking details thenit doesn't pass our initial shortlist for evlauation 
+1) Please note that bookingjson is not the hackathon, it is just a **starting point**, If your final solution has only booking details then it doesn't pass our initial shortlist for evlauation 
 2) Authentication/Security ( Secure REST API )
 3) RESTFUL API ( create new API's and/or consume as applicable)
 4) Dont use the booking json directly if required host it on some cloud like heroku
 5) Think creative, we will look for innovative ideas - and unique User experience
 6) TDD
-7) Solution document should briefly 
+7) Solution document must briefly [Allocate minimum 15-20 minutes towards the end of the hackathon]
     1) describe the idea, 
     2) technical architecture, 
     3) solution approach etc. 
     4) why this is the best solution 
-    5) For mobile apps, include screenshots and/add folder in git to highlight your solution
+    5) Include screenshots and/add folder in git to highlight your solution
     6) For web apps, please deploy on cloud environment like heroku and share the final applicaiton URL
 
 
