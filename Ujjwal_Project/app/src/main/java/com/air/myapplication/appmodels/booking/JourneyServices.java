@@ -2,16 +2,18 @@ package com.air.myapplication.appmodels.booking;
 
 import com.google.gson.annotations.SerializedName;
 
+import java.util.ArrayList;
+
 /**
  * Created by ujjwalbansal on 17/02/18.
  */
 
 public class JourneyServices {
     @SerializedName("JourneyService")
-    JourneyService journeyService;
+    ArrayList<JourneyService> journeyService;
 
-    public JourneyService getJourneyService() {
+    public ArrayList<JourneyService> getJourneyService() {
         return journeyService;
     }
 
-}
+  }

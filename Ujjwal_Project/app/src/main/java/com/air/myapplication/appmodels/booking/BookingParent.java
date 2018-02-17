@@ -2,11 +2,13 @@ package com.air.myapplication.appmodels.booking;
 
 import com.google.gson.annotations.SerializedName;
 
+import java.io.Serializable;
+
 /**
  * Created by ujjwalbansal on 17/02/18.
  */
 
-public class BookingParent {
+public class BookingParent implements Serializable{
     @SerializedName("BookingStatus")
     String bookingStatus;
     @SerializedName("PNR")

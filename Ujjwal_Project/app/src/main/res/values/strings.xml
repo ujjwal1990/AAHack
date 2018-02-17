@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AirAsia_Hack</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">App_Hack</string>
+    <string name="action_booking_info">Booking Info</string>
     <string name="no_network">No internet available</string>
 </resources>

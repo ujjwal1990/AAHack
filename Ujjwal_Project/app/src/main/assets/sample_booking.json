@@ -1,0 +1,57 @@
+{
+  "BookingStatus": "Confirmed",
+  "PNR": "VQ3RYQ",
+  "BookingContacts": {
+    "BookingContact": [
+      {
+        "OtherPhone": "8867128535",
+        "EmailAddress": "XXXX@gmail.com",
+        "HomePhone": "00000000000",
+        "WorkPhone": "",
+        "Name": {
+          "MiddleName": "",
+          "FirstName": "Ujjwal",
+          "Title": "MR",
+          "LastName": "Bansal"
+        }
+      }
+    ]
+  },
+  "BookingPassengers": {
+    "BookingPassenger": [
+      {
+        "Infant": false,
+        "PaxPriceType": {
+          "PaxType": "ADULT"
+        },
+        "PassengerFees": 356
+      },
+      {
+        "Infant": false,
+        "PaxPriceType": {
+          "PaxType": "ADULT"
+        },
+        "PassengerFees": 1290
+      }
+    ]
+  },
+  "JourneyServices": {
+    "JourneyService": [
+      {
+        "Segments": {
+          "Segment": [
+            {
+              "DepartureStation": "Bangalore",
+              "ArrivalStation": "GOA",
+              "FlightDesignator": {
+                "FlightNumber": "XXXX123"
+              },
+              "DepartureTime": "14:10, 20 Feb 2018",
+              "ArrivalTime": "16:10, 20 Feb 2018"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -12,7 +12,7 @@ import com.air.myapplication.R;
  */
 
 public class SplashActivity extends AppCompatActivity {
-    final int SPLASH_TIME_OUT = 3000;
+    final int SPLASH_TIME_OUT = 2000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -5,5 +5,6 @@ package com.air.myapplication.utils;
  */
 
 public class AppConstants {
-    public static final String BOOKING_FILE_URIl = "https://api.myjson.com/bins/pqeu1";
+    public static final String BOOKING_FILE_URIl = "https://api.myjson.com/bins/1has55";
+    public static final String BookingData = "bookingData";
 }
