@@ -24,7 +24,7 @@
         android:layout_margin="@dimen/margin30"
         android:gravity="center"
         android:padding="@dimen/pad16"
-        android:text="During the Travel and" />
+        android:text="During the Travel" />
 
     <TextView
         android:layout_width="match_parent"
