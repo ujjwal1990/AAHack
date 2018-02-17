@@ -32,6 +32,11 @@ public class MainActivity extends AppCompatActivity implements ApiResponseHandle
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
+//        Before the Travel,
+//                During the Travel and
+//        After Travel
+
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle("");
