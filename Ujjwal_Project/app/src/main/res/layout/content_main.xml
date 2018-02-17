@@ -10,28 +10,5 @@
     tools:context="com.air.myapplication.activities.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin30"
-        android:gravity="center"
-        android:padding="@dimen/pad16"
-        android:text="Before the Travel" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin30"
-        android:gravity="center"
-        android:padding="@dimen/pad16"
-        android:text="During the Travel" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin30"
-        android:gravity="center"
-        android:padding="@dimen/pad16"
-        android:text="After Travel" />
 
 </LinearLayout>
